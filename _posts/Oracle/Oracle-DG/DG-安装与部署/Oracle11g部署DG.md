@@ -1,0 +1,1 @@
+![安装文档](http://cdn.lifemini.cn/dbblog/20210115/0358ad413b2346849f78c2cc38d8619a.png)
