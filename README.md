@@ -8,24 +8,15 @@ That the repository was build is aim to log process of my Oracle Learning.And,th
 BLOG网址：http://www.jannest.com/  
 
 
-
-
-
 # 目录
 
-- #### [LeetCode](LeetCode)
-
-- #### [MongoDB](MongoDB)
-
-- #### [MySQL](MySQL)
-
-- #### [Oracle](Oracle)
-
-- #### [SQL Sever](SQL Sever)
-
-- #### [基础知识](基础知识)
-
-- #### [破解资源](破解资源)
+> - [LeetCode](#LeetCode)
+> - [MongoDB](#MongoDB)
+> - [MySQL](#MySQL)
+> - [Oracle](#Oracle)
+> - [SQL Sever](#SQLSever)
+> - [基础知识](#基础知识)
+> - [破解资源](#破解资源)
 
 
 
