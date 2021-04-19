@@ -118,7 +118,7 @@ BLOG网址：http://www.jannest.com/
   - [Procedure批量删除数据](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/Procedure批量删除数据.md)
   - [dbms_scheduler定时任务使用](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/dbms_scheduler定时任务使用.md)
   - [依据伪列建立分区表及子分区](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/依据伪列建立分区表及子分区.md)
-  - [取分区表high_value中Long型日期](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/取分区表high_value中Long型日期.md)
+  - [取分区表high-value中Long型日期](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/取分区表high-value中Long型日期.md)
 
 - #### Oracle-常见问题
 
