@@ -64,7 +64,7 @@ BLOG网址：http://www.jannest.com/
 
   - ##### DG-常见问题
 
-    - [switchover_status出现sessions active](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-DG/DG-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/switchover_status%E5%87%BA%E7%8E%B0sessions%20active.md)
+    - [switchover-status出现sessions-active](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-DG/DG-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/switchover_status%E5%87%BA%E7%8E%B0sessions%20active.md)
     - [防火墙与SELINUX导致DG主备库失连接](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-DG/DG-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/%E9%98%B2%E7%81%AB%E5%A2%99%E4%B8%8ESELINUX%E5%AF%BC%E8%87%B4DG%E4%B8%BB%E5%A4%87%E5%BA%93%E5%A4%B1%E8%BF%9E%E6%8E%A5.md)
 
 - #### Oracle-OGG
@@ -109,7 +109,7 @@ BLOG网址：http://www.jannest.com/
   - [Procedure批量删除数据](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/Procedure批量删除数据.md)
   - [dbms_scheduler定时任务使用](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/dbms_scheduler定时任务使用.md)
   - [依据伪列建立分区表及子分区](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/依据伪列建立分区表及子分区.md)
-  - [取分区表high_value中Long型日期](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/取分区表high_value中Long型日期.md)
+  - [取分区表high-value中Long型日期](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常用SQL/取分区表high-value中Long型日期.md)
 
 - #### Oracle-常见问题
 
@@ -121,14 +121,14 @@ BLOG网址：http://www.jannest.com/
   - [Oracle查询表空间使用情况以及其他查询](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/Oracle查询表空间使用情况以及其他查询.md)
   - [Oracle正常安装sqlplus命令无法登录](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/Oracle正常安装sqlplus命令无法登录.md)
   - [Shell子进程修改父进程环境变量值](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/Shell子进程修改父进程环境变量值.md)
-  - [Shell脚本提示No such file or directory解决方法](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/Shell脚本提示No such file or directory解决方法.md)
-  - [recover database using backup control file报system01.dbf文件修复](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/recover%20database%20using%20backup%20control%20file%E6%8A%A5system01.dbf%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D.md)
+  - [Shell脚本提示No-such-file-or-directory解决方法](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/Shell脚本提示No-such-file-or-directory解决方法.md)
+  - [recover-database-using-backup-control-file报system01.dbf文件修复](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/recover%20database%20using%20backup%20control%20file%E6%8A%A5system01.dbf%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D.md)
   - [如何查看日志切换的时间](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/如何查看日志切换的时间.md)
-  - [当数据库出现OC4J Configuration issue](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/当数据库出现OC4J Configuration issue.md)
-  - [恢复数据库后以read only打开提示recovery的原因](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/恢复数据库后以read only打开提示recovery的原因.md)
+  - [当数据库出现OC4J-Configuration-issue](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/当数据库出现OC4J-Configuration-issue.md)
+  - [恢复数据库后以read-only打开提示recovery的原因](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/恢复数据库后以read-only打开提示recovery的原因.md)
   - [数据泵在调优过程中的作用](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/数据泵在调优过程中的作用.md)
   - [索引段坏块问题解决](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/索引段坏块问题解决.md)
-  - [诊断Oracle Redo Log引发的性能问题](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/诊断Oracle Redo Log引发的性能问题.md)
+  - [诊断Oracle-Redo-Log引发的性能问题](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/诊断Oracle-Redo-Log引发的性能问题.md)
   - [重建索引未考虑空间引发的问题](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/重建索引未考虑空间引发的问题.md)
   - [验证表空间是否自动回收空间](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-常见问题/验证表空间是否自动回收空间.md)
 
@@ -160,7 +160,7 @@ BLOG网址：http://www.jannest.com/
 - #### Oracle-错误编码
 
   - [【错误】--ORA-01555--快照太旧与AUM介绍](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-错误编码/[错误]--ORA-01555--快照太旧与AUM介绍.md)
-  - [【错误】--ORA-27101--shared memory realm不存在](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-错误编码/[错误]--ORA-27101--shared memory realm不存在.md)
+  - [【错误】--ORA-27101--shared-memory-realm不存在](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-错误编码/[错误]--ORA-27101--shared-memory-realm不存在.md)
   - [【错误】--ORA-29345--跨平台传输字符集问题解决](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-错误编码/[错误]--ORA-29345--跨平台传输字符集问题解决.md)
   - [【错误】--ORA-30036--无法按8扩展段](https://github.com/jansu-dev/Oracle-Learning-Notes/blob/master/Oracle/Oracle-错误编码/[错误]--ORA-30036--无法按8扩展段.md)
 
